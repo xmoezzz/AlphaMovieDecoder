@@ -1,33 +1,33 @@
 # AlphaMovieDecoder
-A tools can dump krkr's amv files.
+A tool can dump krkr's amv files.
 
-ÀÁµÃÀË·ÑÉúÃüÈ¥½âÎöAlphaMovie(ÆäÊµ¸ñÊ½¶¼ÖªµÀ£¬Ö»ÊÇÀÁµÃÅª)¡£  
-ÓĞ¸ü¼òµ¥µÄ·½·¨£¬ÎªºÎ²»ÓÃ233¡£  
+æ‡’å¾—æµªè´¹ç”Ÿå‘½å»è§£æAlphaMovie(å…¶å®æ ¼å¼éƒ½çŸ¥é“ï¼Œåªæ˜¯æ‡’å¾—å¼„)ã€‚  
+æœ‰æ›´ç®€å•çš„æ–¹æ³•ï¼Œä¸ºä½•ä¸ç”¨233ã€‚  
 
 ## How to Use:
 
 1.Open data\scenario\first.ks  
-´ò¿ªdata\scenario\first.ks  
+æ‰“å¼€data\scenario\first.ks  
 
 2.Goto Line 19, and you will see:  
-Ìø×ªµ½µÚ19ĞĞ£¬Äã½«»á¿´¼û:  
+è·³è½¬åˆ°ç¬¬19è¡Œï¼Œä½ å°†ä¼šçœ‹è§:  
 - [playamov slot=0 storage="particle.amv" loop=false]
 
 3.Change particle.amv into your target's name.  
-½«particle.amv¸ÄÎªÄ¿±êÎÄ¼şÃû  
+å°†particle.amvæ”¹ä¸ºç›®æ ‡æ–‡ä»¶å  
 
 4.put your target file into video folder. 
-½«Ä¿±êÎÄ¼ş·ÅÈëvideoÎÄ¼ş¼Ğ  
+å°†ç›®æ ‡æ–‡ä»¶æ”¾å…¥videoæ–‡ä»¶å¤¹  
 
 5.start AlphaMovieDecoderFake.exe  
-ÔËĞĞAlphaMovieDecoderFake.exe  
+è¿è¡ŒAlphaMovieDecoderFake.exe  
 
 6.just click until your terget file is being played.  
-Ò»Ö±µã»÷£¨ÆäÊµ²»ĞèÒªµã¶àÉÙ´Î£©£¬Ö±µ½Ä¿±êÎÄ¼ş¿ªÊ¼²¥·Å  
+ä¸€ç›´ç‚¹å‡»ï¼ˆå…¶å®ä¸éœ€è¦ç‚¹å¤šå°‘æ¬¡ï¼‰ï¼Œç›´åˆ°ç›®æ ‡æ–‡ä»¶å¼€å§‹æ’­æ”¾  
 
 7.just wait.  
-µÈ´ı²¥·ÅÍê±Ï  
+ç­‰å¾…æ’­æ”¾å®Œæ¯•  
 
 8.close the program and find png files under video folder.  
-¹Ø±Õ³ÌĞò£¬videoÎÄ¼ş¼ĞÄÚÓĞ±£´æºÃµÄpngÍ¼Æ¬  
+å…³é—­ç¨‹åºï¼Œvideoæ–‡ä»¶å¤¹å†…æœ‰ä¿å­˜å¥½çš„pngå›¾ç‰‡  
 
